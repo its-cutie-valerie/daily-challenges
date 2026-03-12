@@ -15,3 +15,22 @@
 - [x] **3/10:** [Day 9 - Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
 - [x] **3/11:** [Day 10 - Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
 - [x] **3/12:** World Wide Web 🌐
+- [ ] **3/13:** ❓❓❓
+- [ ] **3/15:** ❓❓❓
+- [ ] **3/16:** ❓❓❓
+- [ ] **3/17:** ❓❓❓
+- [ ] **3/18:** ❓❓❓
+- [ ] **3/19:** ❓❓❓
+- [ ] **3/20:** ❓❓❓
+- [ ] **3/21:** ❓❓❓
+- [ ] **3/22:** ❓❓❓
+- [ ] **3/23:** ❓❓❓
+- [ ] **3/24:** ❓❓❓
+- [ ] **3/25:** ❓❓❓
+- [ ] **3/26:** ❓❓❓
+- [ ] **3/27:** ❓❓❓
+- [ ] **3/28:** ❓❓❓
+- [ ] **3/29:** ❓❓❓
+- [ ] **3/30:** ❓❓❓
+- [ ] **3/31:** ❓❓❓
+
