@@ -4,7 +4,7 @@
 
 ### 🗓️ Challenge Index
 
-- **3/02:** [Wordle](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/wordle.js) 🟩
+- **3/02:** [Wordle 🟩](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/wordle.js)
 - [Day 2 - Blood Moon](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/blood-moon.js) 🩸
 - [Day 3 - Holi](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/holi.js) 🌈
 - [Day 4 - Homebrew Computer Club](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/homebrew-computer-club.js) 🤓
