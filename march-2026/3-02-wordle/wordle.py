@@ -1,5 +1,5 @@
-# Codédex Daily Challenge #1
 # Wordle 🟩
+# Codédex
 
 def wordle_guess(secret, guess):
   count = 0
