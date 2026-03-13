@@ -1,9 +1,7 @@
-## Blood Moon 🩸
-## Codédex
+# Blood Moon 🩸
+# Codédex
 
 def blood_moon(time):
-  # Write code below 💖
-
   hrs_string, min_string = time.split(':')
   result = []
   
