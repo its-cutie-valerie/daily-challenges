@@ -8,15 +8,15 @@ Feel free to explore, learn, and share your own approaches.
 ### 🗓️ March Monthly Challenge Solutions
 
 - [x] **3/2:** [Wordle](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-02-wordle) 🟩
-- [x] **3/3:** Blood Moon 🩸
-- [x] **3/4:** Holi 🌈
-- [x] **3/5:** [Homebrew Computer Club](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/homebrew-computer-club.js) 🤓
-- [x] **3/6:** [Alysa Liu](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/alysa-liu.js) ⛸️
-- [x] **3/7:** [Daylight Savings](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/daylight-savings.js) ⏰
-- [x] **3/8:** [International Women's Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/international-womens-day.js) 💖
-- [x] **3/9:** [Sputnik 9](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/sputnik-9.js) 🚀
-- [x] **3/10:** [Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
-- [x] **3/11:** [Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
+- [x] **3/3:** [Blood Moon](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-03-blood-moon) 🩸
+- [x] **3/4:** [Holi](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-04-holi) 🌈
+- [x] **3/5:** [Homebrew Computer Club](https://github.com/codedex-io/daily-challenges/tree/main/march-2026/3-05-homebrew-computer-club) 🤓
+- [x] **3/6:** Alysa Liu ⛸️
+- [x] **3/7:** Daylight Savings ⏰
+- [x] **3/8:** International Women's Day 💖
+- [x] **3/9:** Sputnik 9 🚀
+- [x] **3/10:** Ring Ring ☎️
+- [x] **3/11:** Hitchhiker's Guide 🪐
 - [x] **3/12:** World Wide Web 🌐
 - [ ] **3/13:** Palindrome 🏎️
 - [ ] **3/15:** ❓❓❓
