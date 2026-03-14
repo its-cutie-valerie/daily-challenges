@@ -1,4 +1,4 @@
-// Word Wide Web 🌐
+// World Wide Web 🌐
 // Codédex
 
 function checkUrl(address) {
